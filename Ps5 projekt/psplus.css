@@ -1,0 +1,41 @@
+body{
+    background-image: url("psbackground.jpg");
+}
+.ps5bemut{
+    font-size: larger;
+    font-weight: 700;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.szimulacio{
+    color: white;
+}
+.psgif{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.psplusrol{
+    color: white;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 350px;
+    margin-right: 350px;
+    border: solid 6px darkslateblue;
+    background-color: darkblue;
+}
+.psplus{
+    margin-left: 530px;
+}
+.container{
+    justify-content: center;
+}
+button:hover{
+    cursor: pointer;
+    box-shadow: 0 2px 50px 0 aqua,0 2px 50px 0 darkblue,0 2px 50px 0;
+    transition: 0.5s;
+}
+a:hover{
+    cursor: pointer;
+    box-shadow: 0 5px 50px 0 rgb(2, 22, 110),0 5px 50px 0 rgb(0, 83, 138);
+    transition: 0.5s;
+}

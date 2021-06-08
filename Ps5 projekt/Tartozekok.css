@@ -1,0 +1,56 @@
+body{
+    
+    background-image: url("psbackground.jpg");
+    
+}
+body h1{
+    text-align: center;
+    color: ghostwhite;
+}
+.ps5bemut{
+    font-size: larger;
+    font-weight: 700;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+
+
+
+
+.container {
+background-color:dimgray;
+max-height: 800px;
+max-width:610px ;
+margin-top:100px;
+color: ghostwhite;
+
+}
+.container h1{
+    text-align: center;
+}
+.container.vr{
+    margin-top: -200px;
+}
+
+
+.container img{
+    width: 240px;
+    height: 230px;
+    margin-right: 20px;
+    border: black 2px solid;
+    margin-top: -43px;
+}
+.szimulacio{
+    color: white;
+}
+button:hover{
+    cursor: pointer;
+    box-shadow: 0 2px 50px 0 aqua,0 2px 50px 0 darkblue,0 2px 50px 0;
+    transition: 0.5s;
+}
+a:hover{
+    cursor: pointer;
+    box-shadow: 0 5px 50px 0 rgb(2, 22, 110),0 5px 50px 0 rgb(0, 83, 138);
+    transition: 0.5s;
+}

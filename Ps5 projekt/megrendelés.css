@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Suez+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap');
+
+body{
+    background-image: url("psbackgroundred.jpg");
+}
+.ps5bemut{
+    font-size: larger;
+    font-weight: 700;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.szimulacio{
+    color: white;
+}
+.ps5csomag{
+    font-family: 'Suez One', serif;
+    color: #e5d549;
+    font-size: xx-large;
+}
+.ps5csomag2{
+    font-family: 'Suez One', serif;
+    color: #e5d549;
+    float: left;
+    margin-top: 500px;
+    margin-left: -450px;
+}
+.ps5csomag3{
+    font-family: 'Suez One', serif;
+    color: #e5d549;
+    float: left;
+    margin-top: 200px;
+}
+button:hover{
+    cursor: pointer;
+    box-shadow: 0 2px 50px 0 aqua,0 2px 50px 0 darkblue,0 2px 50px 0;
+    transition: 0.5s;
+}
+a:hover{
+    cursor: pointer;
+    box-shadow: 0 5px 50px 0 rgb(2, 22, 110),0 5px 50px 0 rgb(0, 83, 138);
+    transition: 0.5s;
+}

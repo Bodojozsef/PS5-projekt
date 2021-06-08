@@ -1,0 +1,18 @@
+body{
+    background-image: url("psbackgroundred.jpg");
+}
+.kossz{
+    color: white;
+    margin-left: 400px;
+    margin-top: 400px;
+}
+button:hover{
+    cursor: pointer;
+    box-shadow: 0 2px 50px 0 aqua,0 2px 50px 0 darkblue,0 2px 50px 0;
+    transition: 0.5s;
+}
+a:hover{
+    cursor: pointer;
+    box-shadow: 0 5px 50px 0 rgb(2, 22, 110),0 5px 50px 0 rgb(0, 83, 138);
+    transition: 0.5s;
+}

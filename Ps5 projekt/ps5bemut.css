@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Stint+Ultra+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&family=Stint+Ultra+Condensed&display=swap');
+
+body{
+    background-image: url("psbackground.jpg");
+}
+
+.ps5bemut{
+    font-size: larger;
+    font-weight: 700;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.sikeres{
+    color: white;
+    margin-left: 350px;
+    font-family: 'Sigmar One', cursive;
+}
+.szoveg{
+    margin-right: 150px;
+    font-size: larger;
+    margin-left: 150px;
+    font-weight: bolder;
+    font-family: 'Poppins', sans-serif;
+    background-color: darkblue;
+    color: white;
+    border: solid 10px darkslateblue;
+}
+.szoveg1{
+    border: solid 10px darkslateblue;
+    background-color: darkblue;
+    color: white;
+    font-size: x-large;
+    margin-right: 500px;
+    margin-left: 500px;
+    font-weight: lighter;
+}
+.ps5kepek{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.hardware1{
+    border: solid 10px darkslateblue;
+    color: aqua;
+    background-color: darkblue;
+    margin-left: 500px;
+    margin-right: 500px;
+    font-weight: lighter;
+    font-size: x-large;
+}
+.hardware{
+    border: solid 10px darkslateblue;
+    color: rgb(255, 0, 13);
+    background-color: darkblue;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-weight: lighter;
+    font-size: x-large;
+}
+.szimulacio{
+    color: white;
+}
+button:hover{
+    cursor: pointer;
+    box-shadow: 0 2px 50px 0 aqua,0 2px 50px 0 darkblue,0 2px 50px 0;
+    transition: 0.5s;
+}
+a:hover{
+    cursor: pointer;
+    box-shadow: 0 5px 50px 0 rgb(2, 22, 110),0 5px 50px 0 rgb(0, 83, 138);
+    transition: 0.5s;
+}

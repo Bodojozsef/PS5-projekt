@@ -1,0 +1,32 @@
+body{
+    background-image: url("psbackground.jpg");
+}
+.ps5bemut{
+    font-size: larger;
+    font-weight: 700;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.PS5KEP{
+    width: 500px;
+    margin-left: 500px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.card1{
+    margin-bottom: 30px;
+}
+.szimulacio{
+    color: white;
+}
+button:hover{
+    cursor: pointer;
+    box-shadow: 0 2px 50px 0 aqua,0 2px 50px 0 darkblue,0 2px 50px 0;
+    transition: 0.5s;
+}
+a:hover{
+    cursor: pointer;
+    box-shadow: 0 5px 50px 0 rgb(2, 22, 110),0 5px 50px 0 rgb(0, 83, 138);
+    transition: 0.5s;
+}

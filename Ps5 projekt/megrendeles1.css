@@ -1,0 +1,36 @@
+body{
+    background-image: url("psbackgroundred.jpg");
+}
+
+.rendeles{
+    font-weight: bolder;
+    color: white;
+    margin-top: 50px;
+    margin-left: 10px;
+    width: 400px;
+    height: 50px;
+}
+.rendeles1{
+    font-weight: bolder;
+    color: white;
+    margin-top: 50px;
+    margin-left: 500px;
+    width: 400px;
+    height: 50px;
+}
+.ps5bemut{
+    font-size: larger;
+    font-weight: 700;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+button:hover{
+    cursor: pointer;
+    box-shadow: 0 2px 50px 0 aqua,0 2px 50px 0 darkblue,0 2px 50px 0;
+    transition: 0.5s;
+}
+a:hover{
+    cursor: pointer;
+    box-shadow: 0 5px 50px 0 rgb(2, 22, 110),0 5px 50px 0 rgb(0, 83, 138);
+    transition: 0.5s;
+}
